@@ -1,0 +1,3 @@
+**Things to learn**
+- Sometimes the branches will not compare and you have to mess around with it
+- 
